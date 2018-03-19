@@ -1,0 +1,22 @@
+{
+  "name": "mesaderegalos",
+  "version": "1.0.0",
+  "description": "boda",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.3",
+    "method-override": "^2.3.10",
+    "mongoose": "^5.0.10",
+    "mongose": "^0.0.2-security"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "webteam111"
+  },
+  "author": "Derian Pineda",
+  "license": "ISC"
+}
